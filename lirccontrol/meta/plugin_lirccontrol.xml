@@ -1,0 +1,16 @@
+<default>
+<prerequisites>
+                    <tag type="System" />
+</prerequisites>
+          <info>
+                    <author>p1ngb4ck</author>
+                    <name>lirccontrol</name>
+                    <packagename>enigma2-plugin-extensions-lirccontrol</packagename>
+                    <shortdescription>LIRCd settings</shortdescription>
+                    <description>change LIRCd settings and add remotes</description>
+          </info>
+
+<files type="package"> <!-- without version, without .ipk -->
+<file type="package" name="enigma2-plugin-extensions-lirccontrol" />
+</files>
+</default>

@@ -1,0 +1,2 @@
+Description: change lirc settings and add custom remotes
+Depends: lirc

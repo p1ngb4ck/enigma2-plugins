@@ -44,6 +44,7 @@ SUBDIRS = \
 	internetradio \
 	kiddytimer \
 	letterbox \
+	lirccontrol \
 	mediadownloader \
 	merlinepg \
 	merlinepgcenter \

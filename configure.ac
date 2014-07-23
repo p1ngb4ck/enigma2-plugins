@@ -425,6 +425,10 @@ letterbox/Makefile
 letterbox/src/Makefile
 letterbox/meta/Makefile
 
+lirccontrol/Makefile
+lirccontrol/src/Makefile
+lirccontrol/meta/Makefile
+
 logomanager/Makefile
 logomanager/logodir_hdd/Makefile
 logomanager/meta/Makefile
